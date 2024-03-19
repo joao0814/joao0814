@@ -9,29 +9,26 @@
 </p>
 
 
-
 ### Sobre mim 
 <p align="left">
   Sou desenvolvedor Front-end, buscando sempre aprender mais e me desenvolver. 
 </p>
 
 
-
 ### Minhas Skills
 
-<code><img href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img href="https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img href="https://nextjs.org/docs" height="36" src="https://github.com/joao0814/joao0814/assets/85847514/8640d891-b667-4bbd-b8e4-b7fc06b241da" alt="NextJS"/></code>
-
+<code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></a></code>
+<code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></a></code>
+<code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></a></code>
+<code><a href="https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></a></code>
+<code><a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></a></code>
+<code><a href="https://nextjs.org/docs" target="_blank"><img height="36" src="https://github.com/joao0814/joao0814/assets/85847514/8640d891-b667-4bbd-b8e4-b7fc06b241da" alt="NextJS"/></a></code>
 
 
 ### Entre em contato 
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo através dos canais abaixo:
 </p>
 
 <p align="left">
