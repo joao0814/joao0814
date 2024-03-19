@@ -2,13 +2,6 @@
 
 <img src="https://github.com/joao0814/joao0814/assets/85847514/b95671b0-efac-404f-a93b-ef1da6c7f4b8" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
-
-
-
 ### Formação 
 
 <p align="left">
