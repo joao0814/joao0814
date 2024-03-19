@@ -7,7 +7,7 @@
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
----
+
 
 ### Formação 
 
@@ -15,7 +15,6 @@
   📚 Análise e Desenvolvimento de Sistemas - FATEC - 6° Semestre 
 </p>
 
----
 
 
 ### Sobre mim 
@@ -23,7 +22,7 @@
   Sou desenvolvedor Front-end, buscando sempre aprender mais e me desenvolver. 
 </p>
 
----
+
 
 ### Minhas Skills
 
@@ -34,7 +33,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
----
+
 
 ### Entre em contato 
 
