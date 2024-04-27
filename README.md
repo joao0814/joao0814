@@ -28,7 +28,7 @@
 ### Entre em contato 
 
 <p align="left">
-  💌 Entre em contato comigo através dos canais abaixo:
+  Entre em contato comigo através dos canais abaixo:
 </p>
 
 <p align="left">
