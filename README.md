@@ -24,7 +24,7 @@
 <code><a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></a></code>
 <code><a href="https://nextjs.org/docs" target="_blank"><img height="37" src="https://github.com/joao0814/joao0814/assets/85847514/8640d891-b667-4bbd-b8e4-b7fc06b241da" alt="NextJS"/></a></code>
 <code><a href="https://v2.tailwindcss.com/docs/installation" target="_blank"><img height="37" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS"/></a></code>
-<code><a href="https://v2.tailwindcss.com/docs/installation" target="_blank"><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/></a></code>
+<code><a href="https://firebase.google.com/docs?gad_source=1&gclid=CjwKCAjwgdayBhBQEiwAXhMxtvHfNVQPZaMqtodo1AUViIuTA5hQuz9Hq4QeHiMymlVHFcCOWkdlXhoCOWwQAvD_BwE&gclsrc=aw.ds&hl=pt-br" target="_blank"><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/></a></code>
 
 ### Entre em contato 
 
