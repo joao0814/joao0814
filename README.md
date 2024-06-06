@@ -5,7 +5,7 @@
 ### Formação 
 
 <p align="left">
-  📚 Análise e Desenvolvimento de Sistemas - FATEC - 6° Semestre 
+  📚 Análise e Desenvolvimento de Sistemas - FATEC 
 </p>
 
 
