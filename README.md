@@ -11,7 +11,7 @@
 
 ### Sobre mim 
 <p align="left">
-  Sou desenvolvedor Front-end, buscando sempre aprender mais e me desenvolver. 
+  Sou desenvolvedor, buscando sempre aprender mais e me desenvolver. 
 </p>
 
 
