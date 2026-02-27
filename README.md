@@ -11,9 +11,7 @@
 
 ### Sobre mim 
 <p align="left">
-  Sou desenvolvedor Full Stack com experiência em construção de aplicações web, análise e tratamento de dados e automação de processos.
-  Atuo conectando tecnologia e negócio, desenvolvendo soluções com foco em eficiência, organização de dados e geração de valor.  
-  Tenho vivência com ambientes corporativos, integração com ERP (SAP), ETL com Pentaho e desenvolvimento de dashboards e visibilidades.
+ Sou desenvolvedor Full Stack com experiência em aplicações web, análise de dados e automação de processos. Atuo integrando tecnologia e negócio, com foco em eficiência, dados estruturados e soluções corporativas (SAP, ETL e dashboards).
 </p>
 
 
